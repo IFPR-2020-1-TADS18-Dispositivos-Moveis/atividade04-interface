@@ -1,12 +1,5 @@
 # Atividade 4 - Interfaces
 
-## Equipe
-
-- Edite com o nome do Aluno 1
-- Edite com o nome do Aluno 2 (caso haja)
-
-## Descrição da Atividade
-
 Melhore o seu projeto da Atividade 3 (Viking Activities), considerando o seguinte:
 
 - Utilize ConstraintLayout para todas as interfaces gráficas da aplicação.
